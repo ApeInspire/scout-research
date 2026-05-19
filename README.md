@@ -2,7 +2,7 @@
 
 Ape Inspire 旗下的獨立前沿科技研究系統。
 
-**主導者：** [APE](https://github.com/ApeInspire)
+**主導者：** [Ape](https://github.com/ApeInspire)
 **定位：** KK 的視野 × Fowler 的深度
 **方法：** APE 主導研究，Scout AI 團隊輔助執行
 **輸出：** 見解、洞察、能力、知識
